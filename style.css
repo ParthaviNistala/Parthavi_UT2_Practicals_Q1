@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 700px;
+    padding-top: 10px;
+    justify-content: space-between;
+    font-size: larger;
+    align-content: center;
+    margin-bottom: 10px;
+}
+
+
+/*.item {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}*/
+
+img {
+    height: 175px;
+    width: 150px;
+    margin: 5px;
+}
